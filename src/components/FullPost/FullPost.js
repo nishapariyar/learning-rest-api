@@ -20,7 +20,6 @@ class FullPost extends Component {
         }
     }
 
-    deletePostHandler
 
     render () {
         let post = <p style={{textAlign: 'center'}} >Please select a Post!</p>;
